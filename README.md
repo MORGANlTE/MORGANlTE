@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Morganite</h1>
 <h3 align="center">Just another front-end developer</h3>
 
-<p align="left"> <a href="https://twitter.com/m0rganlte" target="blank"><img src="https://img.shields.io/twitter/follow/m0rganlte?logo=twitter&style=for-the-badge" alt="m0rganlte" /></a> </p>
+<p align="center"> <a href="https://twitter.com/m0rganlte" target="blank"><img src="https://img.shields.io/twitter/follow/m0rganlte?logo=twitter&style=for-the-badge" alt="m0rganlte" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
