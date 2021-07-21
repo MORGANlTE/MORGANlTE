@@ -2,7 +2,7 @@
 <h3 align="center">Just another front-end developer</h3>
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="center">Connect with me:</h3>
 <p align="center"> <a href="https://twitter.com/m0rganlte" target="blank"><img src="https://img.shields.io/twitter/follow/m0rganlte?logo=twitter&style=for-the-badge" alt="m0rganlte" /></a> </p>
 
 
