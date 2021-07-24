@@ -1,5 +1,5 @@
 <h1 align="center">Heyo, I'm Morganite</h1>
-<h3 align="center">Just another front-end developer :)</h3>
+<h3 align="center">Just another front-end developer</h3>
 
 <br/>
 
