@@ -1,4 +1,4 @@
-<h1 align="center">Heyo, Morganite</h1>
+<h1 align="center">Mijn naam is Laurens Arnauts</h1>
 <h3 align="center">Just another front-end developer</h3>
 
 <br/>
