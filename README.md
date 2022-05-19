@@ -7,8 +7,7 @@
 
 <br/>
 
-<h3 align="center">Stats:</h3>
-<div>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=MORGANlTE&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="Morganite" />
+<h3 align="left">Stats:</h3>
+
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MORGANlTE&layout=compact" alt="morganlte" />
-</div>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=MORGANlTE&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="Morganite" />
