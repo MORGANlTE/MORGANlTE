@@ -1,0 +1,1 @@
+Icons adapted from [Devicon](https://github.com/devicons/devicon) under the MIT license. Cream tile backgrounds and a monochrome charcoal treatment were added to match the AI tools. See LICENSE in this directory.

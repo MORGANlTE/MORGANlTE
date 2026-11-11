@@ -1,0 +1,1 @@
+Icons adapted from [LobeHub Icons](https://github.com/lobehub/lobe-icons) under the MIT license. Cream tile backgrounds were added for contrast on light and dark GitHub themes. OpenAI icon used for ChatGPT. See LICENSE in this directory.
